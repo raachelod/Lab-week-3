@@ -2,7 +2,7 @@
 print("Welcome to my repository")
 print("This is my first change to the file")
 
-<<<<<<< HEAD
+
 # plot.py
 
 import math
@@ -37,7 +37,7 @@ plt.ylim([0, 0.3])
 # Creating the plot with plt.plot does not mean that we can see the plot!
 # We need to "show" the plot:
 plt.savefig('plot1.svg') # save to a file
-plt.show()		
-=======
-print("I am modifying this is my first change")
->>>>>>> e46df05a7c86c1352b2d45e40a0cb9bbcbccbc80
+plt.show()
+
+print("i have made this new change")
+
