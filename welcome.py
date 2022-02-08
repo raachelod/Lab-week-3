@@ -1,6 +1,7 @@
 #! /usr/bin/python3
 print("Welcome to my repository")
 print("This is my first change to the file")
+print("I am modifying this is my first change")
 
 <<<<<<< HEAD
 # plot.py
@@ -39,5 +40,5 @@ plt.ylim([0, 0.3])
 plt.savefig('plot1.svg') # save to a file
 plt.show()		
 =======
-print("I am modifying this is my first change")
+
 >>>>>>> e46df05a7c86c1352b2d45e40a0cb9bbcbccbc80
