@@ -38,6 +38,3 @@ plt.ylim([0, 0.3])
 # We need to "show" the plot:
 plt.savefig('plot1.svg') # save to a file
 plt.show()
-
-print("i have made this new change")
-
